@@ -1,4 +1,3 @@
-
 def calculo_de_descuentos(precioC, descuentoC):
     return   (descuentoC / 100) * precioC
 
